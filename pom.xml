@@ -86,6 +86,16 @@
             <artifactId>kotlin-stdlib-jdk8</artifactId>
             <version>1.6.10</version>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-compiler</artifactId>
+            <version>1.6.10</version>
+        </dependency>
+        <dependency>
+            <groupId>org.sonatype.sisu</groupId>
+            <artifactId>sisu-guava</artifactId>
+            <version>0.9.9</version>
+        </dependency>
     </dependencies>
 
 </project>
